@@ -4,7 +4,7 @@ Eclipse plug-in for Petri net product line analysis
 Update Site Zip: https://github.com/antoniogarmendia/titan/blob/main/titan.project/plugins/PNPLAnalysisUpdateSize.zip
 Update Site: http://antoniogarmendia.github.io/titan/
 
-<img src="https://github.com/antoniogarmendia/titan/blob/main/titan.project/images/update-site-screenshot.png" width="200" height="200">
+<img src="https://github.com/antoniogarmendia/titan/blob/main/titan.project/images/update-site-screenshot.png" width="400" height="400">
 
 Requirements:
 - Eclipse Photon (4.8.0)
