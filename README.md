@@ -8,6 +8,7 @@ Update Site: http://antoniogarmendia.github.io/titan/
 
 Requirements:
 - Eclipse Photon (4.8.0)
+- EMF 2.9 (https://download.eclipse.org/modeling/emf/emf/builds/release/2.19)
 - Java 9
 - Sirius 6.0.2 (http://download.eclipse.org/sirius/updates/releases/6.0.2/photon)
 - Xtext 2.14
