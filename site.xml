@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/pnpl_analysis.feature_1.0.0.202105182008.jar" id="pnpl_analysis.feature" version="1.0.0.202105182008">
+      <category name="PNPL_Analysis"/>
+   </feature>
+   <category-def name="PNPL_Analysis" label="PNPL_Analysis"/>
+</site>
