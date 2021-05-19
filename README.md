@@ -10,6 +10,8 @@ Requirements:
 - Eclipse DSL Photon 4.8.0 (https://www.eclipse.org/downloads/packages/release/photon/r)
 - EMF 2.9 (https://download.eclipse.org/modeling/emf/emf/builds/release/2.19)
 - Java 9
+- Eclipse collections 10.2.0 (Eclipse Collections	http://download.eclipse.org/collections/10.2.0/repository)
+- Acceleo 3.7.3 (http://download.eclipse.org/releases/photon)
 - Sirius 6.0.2 (http://download.eclipse.org/sirius/updates/releases/6.0.2/photon)
 - Xtext 2.14
 - Xtext / Sirius Integration (https://github.com/altran-mde/xtext-sirius-integration)
