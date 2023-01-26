@@ -10,30 +10,29 @@
 		<graphics key="layoutalgorithm" value="1"/>
 	</properties>
 	<struct>
-		<and mandatory="true" name="Phils">
+		<and mandatory="true" name="Feature_Model">
 			<graphics key="collapsed" value="false"/>
-			<feature name="TwoP">
+			<feature mandatory="true" name="Worker1">
 				<graphics key="collapsed" value="false"/>
 			</feature>
-			<feature name="ThreeP">
+			<feature name="Worker2">
 				<graphics key="collapsed" value="false"/>
 			</feature>
-			<feature name="FourP"/>
+			<feature name="Worker3"/>
 		</and>
 	</struct>
 	<constraints>
 		<rule>
 			<conj>
 				<imp>
-					<var>ThreeP</var>
-					<var>TwoP</var>
+					<var>Worker2</var>
+					<var>Worker1</var>
 				</imp>
 				<imp>
-					<var>FourP</var>
-					<var>ThreeP</var>
+					<var>Worker3</var>
+					<var>Worker2</var>
 				</imp>
 			</conj>
 		</rule>
 	</constraints>
 </featureModel>
-
